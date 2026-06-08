@@ -1,0 +1,2 @@
+USER;20;Clark Kent;clark@ufp.edu.pt;Porto;2026-06-07
+USER;20;Clark Kent;clark@ufp.edu.pt;Porto;2026-06-08

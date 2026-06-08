@@ -1,0 +1,16 @@
+====== AUDITORIA DO MOTOR DE STREAMING UFP ======
+Data de Exportação: 2026-05-26
+====== MOTOR DE RECOMENDAÇÃO ESTRUTURAL DA REDE ======
+
+2026-06-04 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: Ana]
+2026-06-04 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: i]
+2026-06-04 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: a]
+2026-06-04 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: a]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: Ana]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: ]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: p, Data: null, Substring: a]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: isaac]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: Isaac]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: a]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: ]
+2026-06-08 | Pesquisa realizada: Utilizadores [Região: Porto, Data: null, Substring: ]

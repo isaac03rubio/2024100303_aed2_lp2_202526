@@ -1,0 +1,100 @@
+100,Interstellar,Sci-Fi,Movie,2014-11-07,169
+101,Breaking Bad,Drama,Series,2008-01-20,49
+102,Cosmos,Documentary,Movie,2014-03-09,45
+103,The Matrix,Action,Movie,1999-03-31,136
+104,Stranger Things,Sci-Fi,Series,2016-07-15,50
+105,Planet Earth,Documentary,Series,2006-03-05,60
+106,Inception,Sci-Fi,Movie,2010-07-16,148
+107,The Godfather,Drama,Movie,1972-03-24,175
+108,The Dark Knight,Action,Movie,2008-07-18,152
+109,Our Planet,Documentary,Series,2019-04-05,50
+110,Blade Runner 2049,Sci-Fi,Movie,2017-10-06,164
+111,Chernobyl,Drama,Series,2019-05-06,330
+112,Gladiator,Action,Movie,2000-05-05,155
+113,Free Solo,Documentary,Movie,2018-09-28,100
+114,Black Mirror,Sci-Fi,Series,2011-12-04,60
+115,Better Call Saul,Drama,Series,2015-02-08,50
+116,Mad Max: Fury Road,Action,Movie,2015-05-15,120
+117,The Last Dance,Documentary,Series,2020-04-19,50
+118,Arrival,Sci-Fi,Movie,2016-11-11,116
+119,The Wire,Drama,Series,2002-06-02,60
+120,John Wick,Action,Movie,2014-10-24,101
+121,Formula 1: Drive to Survive,Documentary,Series,2019-03-08,40
+122,Dune,Sci-Fi,Movie,2021-10-22,155
+123,The Sopranos,Drama,Series,1999-01-10,55
+124,Die Hard,Action,Movie,1988-07-20,132
+125,The Social Dilemma,Documentary,Movie,2020-09-09,94
+126,Avatar,Sci-Fi,Movie,2009-12-18,162
+127,Succession,Drama,Series,2018-06-03,60
+128,Kill Bill: Vol 1,Action,Movie,2003-10-10,111
+129,Wild Wild Country,Documentary,Series,2018-03-16,70
+130,The Martian,Sci-Fi,Movie,2015-10-02,144
+131,Peaky Blinders,Drama,Series,2013-09-12,60
+132,Terminator 2,Action,Movie,1991-07-03,137
+133,Making a Murderer,Documentary,Series,2015-12-18,60
+134,Tenet,Sci-Fi,Movie,2020-09-03,150
+135,Mindhunter,Drama,Series,2017-10-13,50
+136,The Bourne Identity,Action,Movie,2002-06-14,119
+137,Tiger King,Documentary,Series,2020-03-20,45
+138,Gravity,Sci-Fi,Movie,2013-10-04,91
+139,The Crown,Drama,Series,2016-11-04,58
+140,Top Gun: Maverick,Action,Movie,2022-05-27,130
+141,Inside Job,Documentary,Movie,2010-10-08,109
+142,Predestination,Sci-Fi,Movie,2015-01-09,97
+143,Game of Thrones,Drama,Series,2011-04-17,57
+144,Casino Royale,Action,Movie,2006-11-17,144
+145,March of the Penguins,Documentary,Movie,2005-06-24,80
+146,Ex Machina,Sci-Fi,Movie,2014-12-23,108
+147,House of Cards,Drama,Series,2013-02-01,50
+148,Speed,Action,Movie,1994-06-10,116
+149,Icarus,Documentary,Movie,2017-08-04,120
+150,Annihilation,Sci-Fi,Movie,2018-02-23,115
+151,Mad Men,Drama,Series,2007-07-19,47
+152,Mission: Impossible - Fallout,Action,Movie,2018-07-27,147
+153,Jiro Dreams of Sushi,Documentary,Movie,2011-11-08,81
+154,Looper,Sci-Fi,Movie,2012-09-28,119
+155,Ozark,Drama,Series,2017-07-21,60
+156,Skyfall,Action,Movie,2012-11-09,143
+157,My Octopus Teacher,Documentary,Movie,2020-09-04,85
+158,The Prestige,Sci-Fi,Movie,2006-10-20,130
+159,The Queen's Gambit,Drama,Series,2020-10-23,393
+160,Baby Driver,Action,Movie,2017-06-28,113
+161,13th,Documentary,Movie,2016-10-07,100
+162,Minority Report,Sci-Fi,Movie,2002-06-21,145
+163,Dark,Drama,Series,2017-12-01,60
+164,Heat,Action,Movie,1995-12-15,170
+165,Won't You Be My Neighbor?,Documentary,Movie,2018-06-08,94
+166,The Fifth Element,Sci-Fi,Movie,1997-05-09,126
+167,True Detective,Drama,Series,2014-01-12,55
+168,Taken,Action,Movie,2008-01-30,93
+169,The Pixar Story,Documentary,Movie,2007-08-28,88
+170,Pacific Rim,Sci-Fi,Movie,2013-07-12,131
+171,Fargo,Drama,Series,2014-04-15,53
+172,The Avengers,Action,Movie,2012-05-04,143
+173,Blackfish,Documentary,Movie,2013-07-19,83
+174,Coherence,Sci-Fi,Movie,2013-09-19,89
+175,Narcos,Drama,Series,2015-08-28,49
+176,Gladiator 2,Action,Movie,2024-11-22,148
+177,Man on Wire,Documentary,Movie,2008-07-25,94
+178,Contact,Sci-Fi,Movie,1997-07-11,150
+179,Boardwalk Empire,Drama,Series,2010-09-19,55
+180,Oldboy,Action,Movie,2003-11-21,120
+181,Apollo 11,Documentary,Movie,2019-03-01,93
+182,Source Code,Sci-Fi,Movie,2011-04-01,93
+183,Peaky Blinders S2,Drama,Series,2014-10-02,60
+184,The Dark Knight Rises,Action,Movie,2012-07-20,165
+185,Searching for Sugar Man,Documentary,Movie,2012-07-26,86
+186,The Abyss,Sci-Fi,Movie,1989-08-09,140
+187,Billions,Drama,Series,2016-01-17,60
+188,Sicario,Action,Movie,2015-09-18,121
+189,The Last Dance E2,Documentary,Series,2020-04-19,50
+190,12 Monkeys,Sci-Fi,Movie,1995-12-29,129
+191,Severance,Drama,Series,2022-02-18,50
+192,Extraction,Action,Movie,2020-04-24,116
+193,Senna,Documentary,Movie,2010-10-07,106
+194,Gattaca,Sci-Fi,Movie,1997-10-24,106
+195,The Bear,Drama,Series,2022-06-23,30
+196,The Raid,Action,Movie,2011-09-08,101
+197,Enron: The Smartest Guys in the Room,Documentary,Movie,2005-04-22,110
+198,Dark City,Sci-Fi,Movie,1998-02-27,100
+199,Mr Robot,Drama,Series,2015-06-24,49

@@ -1,0 +1,100 @@
+500,Christopher Nolan,British,1970-07-30
+501,Bryan Cranston,American,1956-03-07
+502,Neil deGrasse Tyson,American,1958-10-05
+503,Keanu Reeves,Canadian,1964-09-02
+504,David Attenborough,British,1926-05-08
+505,Denis Villeneuve,Canadian,1967-10-03
+506,Al Pacino,American,1940-04-25
+507,Christian Bale,British,1974-01-30
+508,Sigourney Weaver,American,1949-10-08
+509,Aaron Paul,American,1979-08-27
+510,Ridley Scott,British,1937-11-30
+511,Russell Crowe,New Zealand,1964-04-07
+512,Alex Honnold,American,1985-08-17
+513,Tom Hardy,British,1977-09-15
+514,Michael Jordan,American,1963-02-17
+515,Amy Adams,American,1974-08-20
+516,David Simon,American,1960-02-09
+517,Chad Stahelski,American,1968-09-20
+518,James Cameron,Canadian,1954-08-16
+519,Brian Cox,Scottish,1946-06-01
+520,Uma Thurman,American,1970-04-29
+521,Matt Damon,American,1970-10-08
+522,Cillian Murphy,Irish,1976-05-25
+523,Lana Wachowski,American,1965-06-21
+524,David Fincher,American,1962-08-28
+525,Matt Damon,American,1970-10-08
+526,Alfonso Cuarón,Mexican,1961-11-28
+527,Olivia Colman,British,1974-01-30
+528,Tom Cruise,American,1962-07-03
+529,Alex Garland,British,1970-05-26
+530,Kevin Spacey,American,1959-07-26
+531,Sandra Bullock,American,1964-07-26
+532,Jon Hamm,American,1971-03-10
+533,Tom Cruise,American,1962-07-03
+534,Jiro Ono,Japanese,1925-10-27
+535,Jason Bateman,American,1969-01-14
+536,Daniel Craig,British,1968-03-02
+537,Anya Taylor-Joy,American,1996-04-16
+538,Edgar Wright,British,1974-04-18
+539,Tom Cruise,American,1962-07-03
+540,Steven Spielberg,American,1946-12-18
+541,Louis Hofmann,German,1997-06-03
+542,Robert De Niro,American,1943-08-17
+543,Milla Jovovich,American,1975-12-17
+544,Matthew McConaughey,American,1969-11-04
+545,Liam Neeson,Irish,1952-06-07
+546,Guillermo del Toro,Mexican,1964-10-09
+547,Billy Bob Thornton,American,1955-08-04
+548,Robert Downey Jr,American,1965-04-04
+549,Wagner Moura,Brazilian,1976-06-27
+550,Jodie Foster,American,1962-11-19
+551,Steve Buscemi,American,1957-12-13
+552,Choi Min-sik,South Korean,1962-05-30
+553,Jake Gyllenhaal,American,1980-12-19
+554,Bruce Willis,American,1955-03-19
+555,Paul Giamatti,American,1967-06-06
+556,Benicio del Toro,Puerto Rican,1967-02-19
+557,Adam Scott,American,1973-04-03
+558,Chris Hemsworth,Australian,1983-08-11
+559,Jeremy Allen White,American,1991-02-17
+560,Iko Uwais,Indonesian,1983-02-12
+561,Rami Malek,American,1981-05-12
+562,Pedro Pascal,Chilean,1975-04-02
+563,Woody Harrelson,American,1961-07-23
+564,Gillian Anderson,American,1968-08-09
+565,Jon Bernthal,American,1976-09-20
+566,Mads Mikkelsen,Danish,1965-11-22
+567,Hugh Jackman,Australian,1968-10-12
+568,Rebecca Ferguson,Swedish,1983-10-19
+569,Gary Oldman,British,1958-03-21
+570,Zendaya,American,1996-09-01
+571,Timothée Chalamet,American,1995-12-27
+572,Florence Pugh,British,1996-01-03
+573,Austin Butler,American,1991-08-17
+574,Mark Ruffalo,American,1967-11-22
+575,Willem Dafoe,American,1955-07-22
+576,Emma Stone,American,1988-11-06
+577,Ryan Gosling,Canadian,1980-11-12
+578,Margot Robbie,Australian,1990-07-02
+579,Brad Pitt,American,1963-12-18
+580,Leonardo DiCaprio,American,1974-11-11
+581,Kate Winslet,British,1975-10-05
+582,Morgan Freeman,American,1937-06-01
+583,Tom Hanks,American,1956-07-09
+584,Denzel Washington,American,1954-12-28
+585,Frances McDormand,American,1957-06-23
+586,Sam Rockwell,American,1968-11-05
+587,Mahershala Ali,American,1974-02-16
+588,Viggo Mortensen,American,1958-10-20
+589,Lupita Nyong'o,Kenyan,1983-03-01
+590,Viola Davis,American,1965-08-11
+591,Chadwick Boseman,American,1976-11-29
+592,Michael B Jordan,American,1987-02-09
+593,Saoirse Ronan,Irish,1994-04-12
+594,Timothée Chalamet,American,1995-12-27
+595,Christian Bale,British,1974-01-30
+596,Gary Oldman,British,1958-03-21
+597,Heath Ledger,Australian,1979-04-04
+598,Joaquin Phoenix,American,1974-10-28
+599,Robert De Niro,American,1943-08-17
